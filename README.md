@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @utkuacikgoz
-- 👀 I’m interested in product management & entreprenership
+- 👀 I’m interested in product management & entrepreneurship
 - 🌱 I’m currently learning Pyhton, SQL yummy 
-- 💞️ I’m looking to collaborate on fellow startups who works on gaming
+- 💞️ I’m looking to collaborate on fellow startups who works on gaming, e-commerce, blockchain
 - 📫 How to reach me : just ping me on Linkedin
 
 <!---
