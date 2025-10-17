@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Utku Açıkgoz
 
-🚀 **Senior Product Manager | Entrepreneur | Business Owner  
-With 7+ years in product management, I specialize in driving **0→1 scaling, digital transformation, and marketplace strategy**. I thrive at the intersection of **operations, product, and growth**, helping startups and businesses deliver user-centric, scalable solutions.
+🚀 Senior Product Manager | Entrepreneur | Business Owner  
+With 8+ years in product management, I specialize in driving **0→1 scaling, digital transformation, and marketplace strategy**. I thrive at the intersection of **operations, product, and growth**, helping startups and businesses deliver user-centric, scalable solutions.
 
 ---
 
@@ -47,7 +47,6 @@ Amplitude · ClickUp · Confluence · Figma · Firebase · GA · BigQuery · Dat
 ## 📫 Connect with Me
 - 🌍 [utkuacikgoz.com](http://utkuacikgoz.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/utkuacikgoz/)  
-- 📷 [Instagram](https://www.instagram.com/utkackgz)  
 - 💻 [GitHub](https://github.com/utkuacikgoz)  
 
 ---
