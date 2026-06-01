@@ -4,7 +4,7 @@
 
 8+ years shipping products across fintech, blockchain, HRtech, and SaaS. I don't just manage roadmaps — I build things myself. Currently somewhere with good Wi-Fi. 🌍
 
-`PSM I · PSPO I` &nbsp;|&nbsp; 0→1 products &nbsp;|&nbsp; Regulated fintech &nbsp;|&nbsp; Remote · USD
+`PSM I · PSPO I` &nbsp;|&nbsp; 0→1 products &nbsp;|&nbsp; Regulated fintech &nbsp;|&nbsp; Remote
 
 ---
 
