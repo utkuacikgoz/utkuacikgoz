@@ -1,38 +1,54 @@
-# 👋 Utku Açıkgöz
+<h1 align="center">Utku Açıkgöz</h1>
 
-**Senior Product Manager · Entrepreneur · Digital Nomad**
+<p align="center">
+  <b>Senior Product Manager &amp; Founder</b><br/>
+  I ship products — not just roadmaps.
+</p>
 
-8+ years shipping products across fintech, blockchain, HRtech, and SaaS. I don't just manage roadmaps — I build things myself. Currently somewhere with good Wi-Fi. 🌍
-
-`PSM I · PSPO I` &nbsp;|&nbsp; 0→1 products &nbsp;|&nbsp; Regulated fintech &nbsp;|&nbsp; Remote
+<p align="center">
+  <img src="https://img.shields.io/badge/Scrum.org-PSM%20I-0052CC?style=flat-square" alt="PSM I"/>
+  <img src="https://img.shields.io/badge/Scrum.org-PSPO%20I-0052CC?style=flat-square" alt="PSPO I"/>
+  <img src="https://img.shields.io/badge/Remote-Location--independent-2ea44f?style=flat-square" alt="Remote"/>
+  <img src="https://img.shields.io/badge/Focus-0%E2%86%921%20products-111111?style=flat-square" alt="0 to 1 products"/>
+</p>
 
 ---
 
-## 🚀 Things I've shipped
+8+ years taking products **0→1** across **fintech, blockchain, HRtech, and SaaS** — from a
+regulated TRY stablecoin to a live B2C AI app. PM by title, builder by habit: I write the
+code, run the go-to-market, and read the analytics — not just the backlog.
 
-| Project | Stack | What it is |
+### 🚀 Products I've built & led
+
+| Product | What it is | Stack |
 |---|---|---|
-| [PassATS](https://github.com/utkuacikgoz) | Node · Vercel · Stripe · Gemini | AI resume scorer, $2.99/scan — B2C SaaS from idea to production |
-| TCDD Ticket Bot | Python · Playwright · GitHub Actions | Telegram bot for Turkish train ticket availability — solves a real problem |
-| BiLira (TRYB) | Blockchain · Compliance | Product work on Turkey's first regulated TRY stablecoin |
-| Upshift | HRtech Marketplace | 40% ops efficiency · AI-led features · Series B+ roadmap alignment |
+| **PassATS** | B2C SaaS — AI résumé scorer (ATS match), idea → production at **$2.99/scan** | Next.js · Vercel · Stripe · Gemini |
+| **BiLira (TRYB)** | Product on Turkey's first **regulated** TRY stablecoin | Blockchain · Compliance |
+| **Upshift** | HRtech marketplace — **40% ops efficiency**, AI-led features, Series-B roadmap alignment | Marketplace · AI · Analytics |
 
----
+### 🤖 Open source — automating real problems
 
-## 🧠 What I'm building now
+Small tools I build in public to scratch my own itches:
 
-Operating independently via **Bosphorus Elevate LLC** (Delaware). Building my own product portfolio alongside remote PM work — I ship, not just manage.
+| Repo | What it does |
+|---|---|
+| [**tcdd-telegram**](https://github.com/utkuacikgoz/tcdd-telegram) | Telegram bot that watches Turkish rail (TCDD) and alerts the instant a sold-out train frees up — asyncio · Redis · Fly.io |
+| [**visa-checker**](https://github.com/utkuacikgoz/visa-checker) | Monitors Hungary visa-appointment slots and pings you on openings |
+| [**polymarket-crypto**](https://github.com/utkuacikgoz/polymarket-crypto) | Options-trading & market-making experiments on Polymarket |
+| [**mevzuat-usd-checker**](https://github.com/utkuacikgoz/mevzuat-usd-checker) | Tracks Turkish regulation (*mevzuat*) for USD / FX-related changes |
+| [**andrej-karpathy-skills**](https://github.com/utkuacikgoz/andrej-karpathy-skills) | A `CLAUDE.md` distilling Karpathy's LLM-coding pitfalls into Claude Code guidance |
 
----
+### 🧭 Now
 
-## 🛠 Stack & tools
+Operating independently through **Bosphorus Elevate LLC** (Delaware) — building my own
+product portfolio alongside senior remote PM work. Ship-first.
 
-**Building with:** Next.js · Supabase · Vercel · Stripe · Claude/OpenAI APIs  
-**Automating with:** Python · Playwright · GitHub Actions · Zapier  
-**PM tooling:** Figma · Amplitude · Mixpanel · Metabase · BigQuery · SQL · Jira · Notion
+### 🛠 Stack
 
----
+**Build** &nbsp;·&nbsp; Next.js · Supabase · Vercel · Stripe · Claude / OpenAI APIs<br/>
+**Automate** &nbsp;·&nbsp; Python · Playwright · GitHub Actions · Fly.io<br/>
+**Measure &amp; manage** &nbsp;·&nbsp; Amplitude · Mixpanel · Metabase · BigQuery · SQL · Figma · Jira · Notion
 
-## 📫 Reach me
+### 📫 Reach me
 
-[utkuacikgoz.com](http://utkuacikgoz.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/utkuacikgoz/) &nbsp;·&nbsp; [X](https://x.com/utkuacikgoz)
+[**utkuacikgoz.com**](https://utkuacikgoz.com) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/utkuacikgoz/) &nbsp;·&nbsp; [**X · @utkuacikgoz**](https://x.com/utkuacikgoz)
