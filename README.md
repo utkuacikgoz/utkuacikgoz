@@ -13,7 +13,7 @@ regulated Turkish lira stablecoin to consumer AI apps. I like staying close to t
 product, so I write code and dig into the metrics, and I build my own things on the side.
 
 Full case studies with the problems, constraints, and numbers live at
-**[portfolio.utkuacikgoz.com](https://portfolio.utkuacikgoz.com)**.
+**[utkuacikgoz.com](https://utkuacikgoz.com)**.
 
 ### Selected work
 
