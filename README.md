@@ -31,7 +31,7 @@ products alongside senior remote PM work.
 
 | Project | What it is |
 |---|---|
-| **PassATS** | Live B2C SaaS. AI résumé scorer that checks ATS match, $2.99 per scan, idea to production. |
+| [**PassATS**](https://passats.org) | Live B2C SaaS. AI résumé scorer that checks ATS match, $2.99 per scan, idea to production. |
 | [**tcdd-telegram**](https://github.com/utkuacikgoz/tcdd-telegram) | Watches Turkish rail for seat availability and alerts you the moment a sold out train frees up. asyncio, Redis, Fly.io. |
 | [**visa-checker**](https://github.com/utkuacikgoz/visa-checker) | Watches Hungary visa appointment slots and pings me when one opens. |
 | [**polymarket-crypto**](https://github.com/utkuacikgoz/polymarket-crypto) | Options trading and market making experiments on Polymarket. |
