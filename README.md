@@ -2,20 +2,19 @@
 
 <p align="center">Senior Product Manager and Founder &nbsp;·&nbsp; Remote</p>
 
-I was the technical PM on Turkey's first regulated lira stablecoin, and I built the
-product function from zero at a $35M ARR marketplace. 8+ years and 11 products shipped
-across fintech, blockchain, HRtech, and SaaS.
+I was the technical PM on Turkey's first regulated lira stablecoin. In my previous role, I built the
+product function from zero at a $35M ARR marketplace. 
 
-I stay close to the real product. I write the code, I pull my own metrics, and I build
-my own things on the side.
+8+ years and 11 products shipped across fintech, blockchain, HRtech, and SaaS.
+
+I stay close to the real product. I write the code, I pull my own metrics, and I build my own things on the side.
 
 Full case studies with the problems, constraints, and numbers live at
 **[utkuacikgoz.com](https://utkuacikgoz.com)**.
 
 ### Now
 
-Working independently through **Bosphorus Elevate LLC** (Delaware), building my own
-products alongside senior remote PM work.
+building my own products alongside senior remote PM work.
 
 ### Selected work
 
@@ -35,13 +34,6 @@ products alongside senior remote PM work.
 | [**tcdd-telegram**](https://github.com/utkuacikgoz/tcdd-telegram) | Watches Turkish rail for seat availability and alerts you the moment a sold out train frees up. asyncio, Redis, Fly.io. |
 | [**visa-checker**](https://github.com/utkuacikgoz/visa-checker) | Watches Hungary visa appointment slots and pings me when one opens. |
 | [**polymarket-crypto**](https://github.com/utkuacikgoz/polymarket-crypto) | Options trading and market making experiments on Polymarket. |
-
-### Stack
-
-**Build:** Next.js, Supabase, Vercel, Stripe, Claude and OpenAI APIs<br/>
-**Automate:** Python, Playwright, GitHub Actions, Fly.io<br/>
-**Measure:** Amplitude, Mixpanel, Metabase, BigQuery, SQL<br/>
-**Run:** Figma, Jira, Notion &nbsp;·&nbsp; PSM I and PSPO I, Scrum.org
 
 ### Contact
 
